@@ -12,8 +12,10 @@ import java.awt.event.ActionEvent;
  */
 
 public class Snake extends JFrame {
-izc
+
 	public Snake() {
+		// Yeah
+		
 		getContentPane().setLayout(null);
 		
 		JPanel panel = new JPanel();
