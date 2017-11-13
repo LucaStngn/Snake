@@ -11,9 +11,6 @@ import java.awt.event.ActionEvent;
  * |-Status-|: 		Nicht Fertig
  */
 
-
-
-
 public class Snake extends JFrame {
 	public Snake() {
 		
